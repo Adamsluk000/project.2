@@ -1,0 +1,83 @@
+.links {
+    width: 300px;
+    height: 300px;
+    background-color: gainsboro;
+    border: 3px inset black;
+    border-radius: 50px;
+    font-size: 100px;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: oblique;
+}
+
+
+a:hover{
+    filter: drop-shadow(8px 8px 10px blue);
+}
+
+
+.vtext {
+    color: #4f42b5;
+    font-size:50px;
+}
+
+
+.vlink {
+    font-style: italic;
+    color: aqua;
+}
+
+
+.mfoot {
+    font-size: 30px;
+    color:#2197f8;
+    background-color: #46797a;
+}
+
+
+iframe {
+    width:600px;
+    height: 600px;
+}
+
+
+.sp {
+    color:silver;
+    font-size:50px;
+}
+
+
+.shp {
+    font-size:50px;
+}
+
+
+label {
+    color: gold
+}
+
+
+.gulf {
+    color:#005477;
+}
+
+
+.ck {
+    width: 1000px;
+    height: 300px;
+    background-color: #e03330;
+    border: 5px double black;
+    border-radius: 50px;
+    font-size: 120px;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+}
